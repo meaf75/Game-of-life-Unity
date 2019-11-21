@@ -1,0 +1,4 @@
+• Cualquier célula viva con menos de dos vecinos vivos muere, como por subpoblación.
+• Cualquier célula viva con dos o tres vecinos vivos vive hasta la próxima generación.
+• Cualquier célula viva con más de tres vecinos vivos muere, como por sobrepoblación.
+• Cualquier célula muerta con exactamente tres vecinos vivos se convierte en una célula viva, como por reproducción.
